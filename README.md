@@ -1,4 +1,4 @@
-## Hi, I'm Krixus :wave:
+## Hi, I'm zakolinski :wave:
 
 Software Developer focused on building clean, reliable apps and tools.
 
@@ -6,4 +6,4 @@ Software Developer focused on building clean, reliable apps and tools.
 **Interests:** backend & APIs, web apps, automation, performance  
 **Currently:** learning, shipping, improving
 
-📬 Contact: *krixus.business@gmail.com*
+📬 Contact: *zakolinski.business@gmail.com*
